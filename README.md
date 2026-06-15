@@ -83,8 +83,7 @@ File operations including creation, moving, copying, renaming, and deletion were
 
 ### File Operations Screenshots
 #### 1. File Creation & Copying
-![File Management 1](/part_d_file_management1.png)
-
+part_d_file_management1.png
 #### 2. Moving and Renaming Files
 ![File Management 2](/part_d_file_management2.png)
 
