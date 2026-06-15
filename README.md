@@ -83,7 +83,7 @@ File operations including creation, moving, copying, renaming, and deletion were
 
 ### File Operations Screenshots
 #### 1. File Creation & Copying
-![part_d_file_management1](./part_d_file_management1.png)
+![img_alt](https://github.com/kuuuu1234/Linux_Task_01_khushi/blob/6f476ff15fa7a5e3ad5e76f7e0d77b0574a5fe88/part_d_file_management1.png)
 #### 2. Moving and Renaming Files
 <img width="1440" height="900" alt="part_d_file_management2" src="https://github.com/user-attachments/assets/701ac953-70e1-4e07-8d75-97f1c298ae4a" />
 
