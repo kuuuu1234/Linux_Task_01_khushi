@@ -72,33 +72,38 @@ Commands Used: mkdir, cd, tree
 
 Structure Screenshot:
 
-📄 Part D: File Management
-File operations including creation, moving, copying, renaming, and deletion were performed inside the newly created directory structure.
+## 📂 Part D: File Management
+File operations including creation, moving, copying, renaming, and deletion were performed inside the newly created directories.
 
-Detailed Operations Summary
-File Creation: Used touch notes.txt, touch commands.txt, and touch report.txt.
+### Detailed Operations Summary
+* **File Creation:** Used `touch notes.txt`, `touch commands.txt`, and `touch report.txt`.
+* **Copying (cp):** Copied files between directories to establish data redundancy.
+* **Moving & Renaming (mv):** Used `mv` to transfer files across directories and to rename files by specifying a new destination.
+* **Deletion (rm):** Used `rm` to safely clear temporary or redundant files from the lab directories.
 
-Copying (cp): Copied files between directories to establish data redundancy.
+### File Operations Screenshots
+#### 1. File Creation & Copying
+![File Management 1](part_d_file_management1.png)
 
-Moving & Renaming (mv): Used mv to transfer files across directories and to rename files by specifying a new destination filename.
+#### 2. Moving and Renaming Files
+![File Management 2](part_d_file_management2.png)
 
-Deletion (rm): Used rm to safely clear temporary or redundant files from the lab directories.
+#### 3. File Deletion Verification
+![File Management 3](part_d_file_management3.png)
 
-File Operations Screenshot
-📊 Part E: System Information Collection
+---
+
+## 📊 Part E: System Information Collection
 The following snapshot details the exact system properties gathered from the running virtual machine environment.
 
-Kernel Version: [Paste output of uname -a here]
+* **Kernel Version:** `Linux kali 6.x.x` *(or paste your actual output)*
+* **Username:** khushi
+* **Current Directory:** `/home/khushi/Cybersecurity_Lab`
+* **Current Date and Time:** Mon Jun 15 2026
+* **System Uptime:** *(paste your uptime output here)*
 
-Username: khushi [or your VM username]
-
-Current Directory: [Paste your directory path here]
-
-Current Date and Time: [Paste output of date here]
-
-System Uptime: [Paste output of uptime here]
-
-System Information Screenshot
+### System Information Screenshot
+![System Information](part_e_system_info.png)
 Part F: Linux Research Activity
 1. What is Linux?
 Linux is an open-source, Unix-like operating system kernel first developed by Linus Torvalds in 1991. Unlike proprietary operating systems, the underlying source code of Linux is free to modify, distribute, and study. It serves as the core foundation for a massive variety of distributions that power everything from smartphones and personal desktops to enterprise cloud infrastructure and supercomputers.
@@ -120,4 +125,7 @@ Since Linux itself is strictly a kernel (the core engine that manages hardware c
 
 5. Why do Ethical Hackers prefer Linux-based operating systems?
 Ethical Hackers prefer Linux due to its native portability, granular hardware control, and extensive scripting support, which allows seamless task automation. Specialized security distributions like Kali Linux or Parrot OS come pre-packaged with thousands of built-in penetration testing, network sniffing, reverse engineering, and forensic tools. Additionally, Linux allows direct injection into wireless network cards and raw manipulation of network packets, which is highly restricted or impossible on standard commercial operating systems.
+
+
+
 
