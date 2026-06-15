@@ -5,11 +5,9 @@ This repository contains the documentation and practical implementation for **Li
 
 ---
 
-## 👤 Intern Details
 * **Name:** Khushi Gaikwad
 * **Task:** Linux Task 01 - Environment Setup & Essential Commands
-* **Domain:** Cyber Security / Ethical Hacking
-
+Cyber Security 
 ---
 
 ## 🛠️ Part A: Linux Installation & Verification
