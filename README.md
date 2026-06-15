@@ -83,12 +83,13 @@ File operations including creation, moving, copying, renaming, and deletion were
 
 ### File Operations Screenshots
 #### 1. File Creation & Copying
-part_d_file_management1.png
+<img width="1440" height="900" alt="part_d_file_management1" src="https://github.com/user-attachments/assets/06d54de7-5037-4373-a95c-9eacb8d1ecc9" />
+
 #### 2. Moving and Renaming Files
-![File Management 2](/part_d_file_management2.png)
+<img width="1440" height="900" alt="part_d_file_management2" src="https://github.com/user-attachments/assets/701ac953-70e1-4e07-8d75-97f1c298ae4a" />
 
 #### 3. File Deletion Verification
-![File Management 3](/part_d_file_management3.png)
+<img width="1440" height="900" alt="part_d_file_management3" src="https://github.com/user-attachments/assets/c522d5c2-2e7f-4c74-9400-a1429d64d563" />
 
 ---
 
@@ -102,7 +103,7 @@ The following snapshot details the exact system properties gathered from the run
 * **System Uptime:** *[Paste output of uptime command here]*
 
 ### System Information Screenshot
-![System Information](/part_e_system_info.png)
+<img width="1440" height="900" alt="part_e_system_info" src="https://github.com/user-attachments/assets/41b91d60-2686-4afc-9bd1-5479a4408afb" />
 
 ---
 
