@@ -80,8 +80,6 @@ The following Linux commands were executed to understand terminal navigation and
 
 ---
 
-# history & clear Commands
-
 ![Command](command.png)
 
 ---
