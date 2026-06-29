@@ -24,7 +24,7 @@ The objectives of this task are:
 
 ---
 
-# Part A – Linux Environment Setup
+# Part A – Environment Setup
 
 A Linux operating system was successfully installed using a Virtual Machine. After installation, the terminal was opened to interact with the operating system using the command-line interface.
 
@@ -34,7 +34,7 @@ A Linux operating system was successfully installed using a Virtual Machine. Aft
 
 # Tasks Performed
 
-- Installed Linux inside a Virtual Machine.
+- Installed Kali Linux inside a Virtual Machine.
 - Verified successful installation.
 - Opened the terminal.
 - Confirmed system accessibility.
